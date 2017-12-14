@@ -1,3 +1,3 @@
 # Notes
 
-Some Notes for learning new stuff.
+Notes for learning new stuff.
