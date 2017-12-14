@@ -1,0 +1,15 @@
+Radiant Power or Flux, 
+	The fundamental radiometric quantity is radiant power, also called flux.
+	Radiant power, often denoted as Φ, is expressed in watts (W) (joules/sec).(page19)
+
+Irradiance,
+	Irradiance (E ) is the incident radiant power on a surface, per unit surface
+	area. It is expressed in watts/m^2.(page19)
+	
+Radiant Exitance or Radiosity,
+	Radiant exitance (M ), also called radiosity (B ), is the exitant radiant power
+	per unit surface area and is also expressed in watts/m^2.(page20)
+	
+Radiance,
+	Radiance is a five-dimensional quantity that varies with position x and
+	direction vector Θ, and is expressed as L(x, Θ).(page20)
